@@ -132,7 +132,7 @@ public class Task1 {
 //		}}while(a > 0);
 		
 		
-		Ex028
+//		Ex028
 
 
 	}

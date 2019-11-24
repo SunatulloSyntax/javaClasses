@@ -11,7 +11,7 @@ public class InterviewQ2 {
 	   //sort the array
 	   Arrays.sort(a);
 	   //print
-	   				System.out.println("The second largest number is " + a[s-2]);
+	   System.out.println("The second largest number is " + a[s-2]);
 	   System.out.println("///////////////////");
 	   
 	   // 2nd way

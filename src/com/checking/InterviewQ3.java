@@ -13,7 +13,8 @@ public class InterviewQ3 {
 		int size = n.length();
 		System.out.println("The size of alpha characters is " + size);
 		
-		
-	}
+		System.out.println("The size of alpha characters is " + a.replaceAll("[^a-zA-Z]", "").length());
+		System.out.println(a.replaceAll("\\w", "")); //    \\W >>> means remove all special characters
+	}												 //     \\w >>> means remove all characters exept special char.
 
 }
