@@ -27,7 +27,9 @@ public class Test {
 		dev.getPaid();
 		dev.code();
 		dev.artifacts = "Sprint Backlog";
+		dev.ceremonies = "Sprint Demo";
 		dev.attendScrumMeetings();
+		dev.employeeId = 101;
 	
 	}
 
